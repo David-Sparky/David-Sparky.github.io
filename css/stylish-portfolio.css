@@ -261,3 +261,11 @@ footer {
 .gray{
     color: #333;
 }
+
+#top{
+    padding-bottom: 10%;
+}
+
+.white{
+    color: white;
+}
