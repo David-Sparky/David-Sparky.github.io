@@ -63,6 +63,7 @@ function getPoints() {
         new google.maps.LatLng(42.727694, -73.673809),
         new google.maps.LatLng(42.728260, -73.674278),
         new google.maps.LatLng(42.728292, -73.673371),
+        new google.maps.LatLng(42.728292, -73.673371),
         new google.maps.LatLng(42.728421, -73.676762),
         new google.maps.LatLng(42.728421, -73.676762),
         new google.maps.LatLng(42.728421, -73.676762),
@@ -75,15 +76,22 @@ function getPoints() {
         new google.maps.LatLng(42.729100, -73.674019),
         new google.maps.LatLng(42.729100, -73.674019),
         new google.maps.LatLng(42.729100, -73.674019),
+        new google.maps.LatLng(42.729100, -73.674019),
+        new google.maps.LatLng(42.729100, -73.674019),
+        new google.maps.LatLng(42.729286, -73.676996),
+        new google.maps.LatLng(42.729286, -73.676996),
         new google.maps.LatLng(42.729286, -73.676996),
         new google.maps.LatLng(42.729286, -73.676996),
         new google.maps.LatLng(42.729286, -73.676996),
         new google.maps.LatLng(42.729286, -73.676996),
         new google.maps.LatLng(42.729524, -73.678931),
+        new google.maps.LatLng(42.729564, -73.680352),
         new google.maps.LatLng(42.730017, -73.681170),
         new google.maps.LatLng(42.730062, -73.681899),
         new google.maps.LatLng(42.730239, -73.677962),
         new google.maps.LatLng(42.730239, -73.677962),
+        new google.maps.LatLng(42.730335, -73.679959),
+        new google.maps.LatLng(42.730335, -73.679959),
         new google.maps.LatLng(42.730865, -73.681654),
         new google.maps.LatLng(42.730865, -73.681654),
         new google.maps.LatLng(42.730865, -73.681654),
@@ -104,6 +112,7 @@ function getPoints() {
         new google.maps.LatLng(42.732204, -73.670246),
         new google.maps.LatLng(42.732233, -73.667369),
         new google.maps.LatLng(42.732233, -73.667369),
+        new google.maps.LatLng(42.732864, -73.678157),
         new google.maps.LatLng(42.733166, -73.665103),
         new google.maps.LatLng(42.733268, -73.668937),
         new google.maps.LatLng(42.733268, -73.668937),
@@ -112,10 +121,9 @@ function getPoints() {
         new google.maps.LatLng(42.734341, -73.664280),
         new google.maps.LatLng(42.734763, -73.668393),
         new google.maps.LatLng(42.734763, -73.668393),
+        new google.maps.LatLng(42.735093, -73.665127),
         new google.maps.LatLng(42.735522, -73.665719)
-
-
-
+        
 
     ];
 }
